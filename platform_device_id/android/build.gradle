@@ -25,7 +25,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 28
-    namespace 'com.Influur.corporation.device.info'
+    namespace 'com.di1shuai.platform_device_id'
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
